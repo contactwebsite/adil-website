@@ -1,22 +1,5 @@
 [
   {
-    "slug": "jhji",
-    "title": "iyugyu",
-    "name": "iyugyu",
-    "price": 985,
-    "oldPrice": 87,
-    "discountPercentage": "48",
-    "category": "Serrure intelligente",
-    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777599306/eyoo3nciqfymwtxgfu3j.jpg",
-    "images": [
-      {
-        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777599306/eyoo3nciqfymwtxgfu3j.jpg",
-        "alt": "Image_fx (13).png"
-      }
-    ],
-    "publishedAt": "2026-05-01T01:35:09.715Z"
-  },
-  {
     "slug": "imprimante-thermique-zkp8013",
     "title": "ZKP8013 Imprimante Thermique",
     "name": "ZKP8013 Imprimante Thermique",
