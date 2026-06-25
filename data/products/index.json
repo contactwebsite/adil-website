@@ -1,5 +1,26 @@
 [
   {
+    "slug": "serrure-digitale-mini-m1-pro",
+    "title": "SERRURE DIGITALE F27 PRO",
+    "name": "SERRURE DIGITALE F27 PRO",
+    "price": 1700,
+    "oldPrice": 3900,
+    "discountPercentage": "57%",
+    "category": "Serrure intelligente",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1782408290/awsmvo75gx0ypucvt4y5.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1782408290/awsmvo75gx0ypucvt4y5.png",
+        "alt": "Capture.PNG"
+      },
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1782408324/bvhi34jupwaxyxtzau71.png",
+        "alt": "error.png"
+      }
+    ],
+    "publishedAt": "2026-06-25T17:25:28.025Z"
+  },
+  {
     "slug": "imprimante-thermique-zkp8013",
     "title": "ZKP8013 Imprimante Thermique",
     "name": "ZKP8013 Imprimante Thermique",
@@ -597,23 +618,6 @@
       }
     ],
     "publishedAt": "2026-04-25T16:28:34.117Z"
-  },
-  {
-    "slug": "serrure-digitale-mini-m1-pro",
-    "title": "SERRURE DIGITALE MINI M1 PRO",
-    "name": "SERRURE DIGITALE MINI M1 PRO",
-    "price": 1990,
-    "oldPrice": 3900,
-    "discountPercentage": "48%",
-    "category": "Serrure intelligente",
-    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777133857/dio0sh9yxs02scvlkeox.png",
-    "images": [
-      {
-        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777133857/dio0sh9yxs02scvlkeox.png",
-        "alt": "Serrure compacte Mini M1 Pro avec caméra HD, empreinte digitale, carte IC et secours USB. Grande sécurité dans un format minimaliste et élégant."
-      }
-    ],
-    "publishedAt": "2026-04-25T16:17:39.680Z"
   },
   {
     "slug": "face-id-luxury-x12",
