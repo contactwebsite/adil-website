@@ -25,28 +25,10 @@
       "alt": "error.png"
     }
   ],
-  "reviews": [
-    {
-      "name": "uuuuuuu",
-      "rating": 5,
-      "comment": "_uçç",
-      "date": "2026-06-26"
-    },
-    {
-      "name": "iiu",
-      "rating": 3,
-      "comment": "uh",
-      "date": "2026-06-24"
-    }
-  ],
-  "questions": [
-    {
-      "question": "Vos questions fréquemment posées (FAQ)",
-      "answer": "_tgtgtgtgtgtgtgtg"
-    }
-  ],
+  "reviews": [],
+  "questions": [],
   "name": "SERRURE DIGITALE F27 PRO",
-  "publishedAt": "2026-06-26T17:35:28.739Z",
+  "publishedAt": "2026-06-26T17:36:45.015Z",
   "schema": {
     "@context": "https://schema.org",
     "@type": "Product",
