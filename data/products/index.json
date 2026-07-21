@@ -1,5 +1,22 @@
 [
   {
+    "slug": "serrure-digitale-mini-m1-pro",
+    "title": "SERRURE DIGITALE F27 PRO",
+    "name": "SERRURE DIGITALE F27 PRO",
+    "price": 2990,
+    "oldPrice": 4600,
+    "discountPercentage": "35%",
+    "category": "Serrure intelligente",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1784663730/pzp9lotnpfdxl3lvuhqi.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1784663730/pzp9lotnpfdxl3lvuhqi.png",
+        "alt": "F27 Pro Full option"
+      }
+    ],
+    "publishedAt": "2026-07-21T20:16:47.245Z"
+  },
+  {
     "slug": "face-id-luxury-x11",
     "title": "Face id luxury X11",
     "name": "Face id luxury X11",
@@ -15,23 +32,6 @@
       }
     ],
     "publishedAt": "2026-07-21T20:14:31.844Z"
-  },
-  {
-    "slug": "serrure-digitale-mini-m1-pro",
-    "title": "SERRURE DIGITALE F27 PRO",
-    "name": "SERRURE DIGITALE F27 PRO",
-    "price": 2990,
-    "oldPrice": 3900,
-    "discountPercentage": "RUPTURE DE STOCK",
-    "category": "Serrure intelligente",
-    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1784663730/pzp9lotnpfdxl3lvuhqi.png",
-    "images": [
-      {
-        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1784663730/pzp9lotnpfdxl3lvuhqi.png",
-        "alt": "F27 Pro Full option"
-      }
-    ],
-    "publishedAt": "2026-07-21T19:55:36.494Z"
   },
   {
     "slug": "imprimante-thermique-zkp8013",
