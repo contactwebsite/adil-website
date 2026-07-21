@@ -21,11 +21,33 @@
       "alt": "F27 PRO Full option"
     }
   ],
-  "reviews": [],
-  "questions": [],
+  "reviews": [
+    {
+      "name": "Aziz .M",
+      "rating": 5,
+      "comment": "je suis agréablement surpr par les performances et stabilité de cette  serrure electronique , comparé à celle que j'avais auparavent avec batterie faible durée et fonctionalités restaintes. Merci encore une fois.",
+      "date": "2026-07-21"
+    },
+    {
+      "name": "",
+      "rating": 5,
+      "comment": "",
+      "date": "2026-07-21"
+    }
+  ],
+  "questions": [
+    {
+      "question": "Comment verifier l'etat de la batterie?",
+      "answer": "la serrure vous informe de 2 facons: 1- notification visuelle lors de l'ouverture de porte pour donner le % restant.  2- notification sonore vocale  ( batterie faible)   plus d'un mois avant"
+    },
+    {
+      "question": "",
+      "answer": ""
+    }
+  ],
   "badgeColor": "red",
   "name": "SERRURE DIGITALE F27 PRO",
-  "publishedAt": "2026-07-21T17:17:46.135Z",
+  "publishedAt": "2026-07-21T17:31:38.752Z",
   "schema": {
     "@context": "https://schema.org",
     "@type": "Product",
