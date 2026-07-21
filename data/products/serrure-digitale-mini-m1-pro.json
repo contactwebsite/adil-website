@@ -34,12 +34,18 @@
       "name": "Aziz .M",
       "rating": 5,
       "comment": "je suis agréablement surpr par les performances et stabilité de cette  serrure electronique , comparé à celle que j'avais auparavent avec batterie faible durée et fonctionalités restaintes. Merci encore une fois.",
-      "date": "2026-07-21"
+      "date": "2026-06-21"
     },
     {
-      "name": "",
+      "name": "H.MARIA",
       "rating": 5,
-      "comment": "",
+      "comment": "Super experience, je peux etre notifier de qui est rentré à ma maison et quand ainsi que la possibilité d'ouvrir à distance en visualisant les détails",
+      "date": "2026-07-18"
+    },
+    {
+      "name": "Mehdi",
+      "rating": 5,
+      "comment": "un vrai soulagement du stress de venir à temps pour ouvrir au enfants, maintenant toutela petite famille à ses accés  tout en ayant le controle et la supervision",
       "date": "2026-07-21"
     }
   ],
@@ -55,7 +61,7 @@
   ],
   "badgeColor": "green",
   "name": "SERRURE DIGITALE F27 PRO",
-  "publishedAt": "2026-07-21T21:12:10.190Z",
+  "publishedAt": "2026-07-21T22:24:07.880Z",
   "schema": {
     "@context": "https://schema.org",
     "@type": "Product",
