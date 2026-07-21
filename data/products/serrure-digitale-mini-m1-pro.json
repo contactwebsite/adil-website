@@ -19,6 +19,10 @@
     {
       "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1784663730/pzp9lotnpfdxl3lvuhqi.png",
       "alt": "F27 Pro Full option"
+    },
+    {
+      "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1784666478/jhuej3kzjitod6clszdj.png",
+      "alt": "F27 Pro Smartlock"
     }
   ],
   "reviews": [
@@ -47,14 +51,15 @@
   ],
   "badgeColor": "black",
   "name": "SERRURE DIGITALE F27 PRO",
-  "publishedAt": "2026-07-21T20:16:47.245Z",
+  "publishedAt": "2026-07-21T20:41:23.205Z",
   "schema": {
     "@context": "https://schema.org",
     "@type": "Product",
     "name": "SERRURE DIGITALE F27 PRO",
     "description": "Serrure Digitale Mini M1 Pro à 2990 MAD au Maroc. Caméra HD, biométrie, carte IC, secours USB et mécanique. Livraison gratuite.  Megadealtech Security.",
     "image": [
-      "https://res.cloudinary.com/dyzhlriym/image/upload/v1784663730/pzp9lotnpfdxl3lvuhqi.png"
+      "https://res.cloudinary.com/dyzhlriym/image/upload/v1784663730/pzp9lotnpfdxl3lvuhqi.png",
+      "https://res.cloudinary.com/dyzhlriym/image/upload/v1784666478/jhuej3kzjitod6clszdj.png"
     ],
     "brand": {
       "@type": "Brand",
