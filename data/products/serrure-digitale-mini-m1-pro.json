@@ -13,7 +13,7 @@
   ],
   "category": "Serrure intelligente",
   "slug": "serrure-digitale-mini-m1-pro",
-  "rating": 4.9,
+  "rating": 5,
   "reviewCount": 245,
   "images": [
     {
@@ -53,9 +53,9 @@
       "answer": ""
     }
   ],
-  "badgeColor": "black",
+  "badgeColor": "green",
   "name": "SERRURE DIGITALE F27 PRO",
-  "publishedAt": "2026-07-21T20:43:13.876Z",
+  "publishedAt": "2026-07-21T21:12:10.190Z",
   "schema": {
     "@context": "https://schema.org",
     "@type": "Product",
@@ -79,7 +79,7 @@
     },
     "aggregateRating": {
       "@type": "AggregateRating",
-      "ratingValue": 4.9,
+      "ratingValue": 5,
       "reviewCount": 245
     }
   }
