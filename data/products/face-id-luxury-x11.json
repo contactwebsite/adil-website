@@ -17,19 +17,58 @@
   "reviewCount": 50,
   "images": [
     {
-      "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1777134836/cdu4higbeacbcs4fzt7d.png",
-      "alt": "Serrure Face ID Luxury X11 : caméra HD, reconnaissance faciale, alarme anti-intrusion et interphone visuel premium. L'avant-dernière frontière de la sécurité connectée."
+      "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1784663853/dzlakdwws98gopccpyot.jpg",
+      "alt": "F27"
     }
   ],
+  "reviews": [
+    {
+      "name": "Youssef M.",
+      "rating": 5,
+      "comment": "Produit d'une qualité exceptionnelle. L'installation a été rapide and le design est magnifique sur ma porte.",
+      "date": "2026-06-12"
+    },
+    {
+      "name": "Hassan B.",
+      "rating": 5,
+      "comment": "Saraha top ! Khedma mzyana bzaf o theknit men lswaret. Recommandé 100%.",
+      "date": "2026-05-26"
+    },
+    {
+      "name": "Amine T.",
+      "rating": 4,
+      "comment": "Très satisfait de cet achat. L'application est fluide and la serrure est très réactive.",
+      "date": "2026-06-05"
+    }
+  ],
+  "questions": [
+    {
+      "question": "Comment fonctionne la livraison ?",
+      "answer": "La livraison est entièrement gratuite partout au Maroc. Une fois votre commande confirmée par téléphone, vous recevrez votre produit sous 24 à 48 heures."
+    },
+    {
+      "question": "Le paiement est-il sécurisé ?",
+      "answer": "Nous utilisons exclusivement le paiement à la livraison (Cash on Delivery). Vous ne payez que lorsque vous recevez and vérifiez votre produit."
+    },
+    {
+      "question": "Puis-je retourner le produit ?",
+      "answer": "Oui, vous disposez d'un délai de 14 jours pour retourner le produit s'il ne vous satisfait pas, à condition qu'il soit dans son emballage d'origine."
+    },
+    {
+      "question": "Proposez-vous l'installation ?",
+      "answer": "Oui, nous disposons d'une équipe de techniciens experts dans les principales villes du Maroc pour assurer une installation professionnelle."
+    }
+  ],
+  "badgeColor": "red",
   "name": "Face id luxury X11",
-  "publishedAt": "2026-06-25T17:46:18.605Z",
+  "publishedAt": "2026-07-21T19:57:38.297Z",
   "schema": {
     "@context": "https://schema.org",
     "@type": "Product",
     "name": "Face id luxury X11",
     "description": "Face ID Luxury X11 à 3790 MAD au Maroc. Caméra HD, Face ID, alarme, interphone visuel haut de gamme. Livraison gratuite. BALENCIA Smart Security.",
     "image": [
-      "https://res.cloudinary.com/dyzhlriym/image/upload/v1777134836/cdu4higbeacbcs4fzt7d.png"
+      "https://res.cloudinary.com/dyzhlriym/image/upload/v1784663853/dzlakdwws98gopccpyot.jpg"
     ],
     "brand": {
       "@type": "Brand",
