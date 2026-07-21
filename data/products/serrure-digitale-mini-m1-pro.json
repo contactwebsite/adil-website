@@ -27,6 +27,10 @@
     {
       "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1784666592/coxudmrtalnkeabs0amc.png",
       "alt": "full"
+    },
+    {
+      "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1784673830/f8dnvadwjueobjomwfd1.jpg",
+      "alt": "Poignée digital F27 Pro"
     }
   ],
   "reviews": [
@@ -61,7 +65,7 @@
   ],
   "badgeColor": "green",
   "name": "SERRURE DIGITALE F27 PRO",
-  "publishedAt": "2026-07-21T22:26:25.838Z",
+  "publishedAt": "2026-07-21T22:43:53.522Z",
   "schema": {
     "@context": "https://schema.org",
     "@type": "Product",
@@ -70,7 +74,8 @@
     "image": [
       "https://res.cloudinary.com/dyzhlriym/image/upload/v1784666478/jhuej3kzjitod6clszdj.png",
       "https://res.cloudinary.com/dyzhlriym/image/upload/v1784666578/uhsm2i1hn1xddl5bc45g.png",
-      "https://res.cloudinary.com/dyzhlriym/image/upload/v1784666592/coxudmrtalnkeabs0amc.png"
+      "https://res.cloudinary.com/dyzhlriym/image/upload/v1784666592/coxudmrtalnkeabs0amc.png",
+      "https://res.cloudinary.com/dyzhlriym/image/upload/v1784673830/f8dnvadwjueobjomwfd1.jpg"
     ],
     "brand": {
       "@type": "Brand",
