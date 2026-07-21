@@ -7,18 +7,22 @@
     "oldPrice": 4600,
     "discountPercentage": "35%",
     "category": "Serrure intelligente",
-    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1784663730/pzp9lotnpfdxl3lvuhqi.png",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1784666478/jhuej3kzjitod6clszdj.png",
     "images": [
-      {
-        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1784663730/pzp9lotnpfdxl3lvuhqi.png",
-        "alt": "F27 Pro Full option"
-      },
       {
         "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1784666478/jhuej3kzjitod6clszdj.png",
         "alt": "F27 Pro Smartlock"
+      },
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1784666578/uhsm2i1hn1xddl5bc45g.png",
+        "alt": "f27"
+      },
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1784666592/coxudmrtalnkeabs0amc.png",
+        "alt": "full"
       }
     ],
-    "publishedAt": "2026-07-21T20:41:23.205Z"
+    "publishedAt": "2026-07-21T20:43:13.876Z"
   },
   {
     "slug": "poignee-digital-x13-ai",
