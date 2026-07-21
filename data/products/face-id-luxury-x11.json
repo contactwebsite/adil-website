@@ -17,8 +17,8 @@
   "reviewCount": 50,
   "images": [
     {
-      "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1784663853/dzlakdwws98gopccpyot.jpg",
-      "alt": "F27"
+      "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1784664865/lft0c9ifmz0wnwu16rsn.png",
+      "alt": "F27 Pro Smartlock"
     }
   ],
   "reviews": [
@@ -61,14 +61,14 @@
   ],
   "badgeColor": "red",
   "name": "Face id luxury X11",
-  "publishedAt": "2026-07-21T19:57:38.297Z",
+  "publishedAt": "2026-07-21T20:14:31.844Z",
   "schema": {
     "@context": "https://schema.org",
     "@type": "Product",
     "name": "Face id luxury X11",
     "description": "Face ID Luxury X11 à 3790 MAD au Maroc. Caméra HD, Face ID, alarme, interphone visuel haut de gamme. Livraison gratuite. BALENCIA Smart Security.",
     "image": [
-      "https://res.cloudinary.com/dyzhlriym/image/upload/v1784663853/dzlakdwws98gopccpyot.jpg"
+      "https://res.cloudinary.com/dyzhlriym/image/upload/v1784664865/lft0c9ifmz0wnwu16rsn.png"
     ],
     "brand": {
       "@type": "Brand",
