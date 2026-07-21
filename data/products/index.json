@@ -1,5 +1,26 @@
 [
   {
+    "slug": "serrure-digitale-mini-m1-pro",
+    "title": "SERRURE DIGITALE F27 PRO",
+    "name": "SERRURE DIGITALE F27 PRO",
+    "price": 2990,
+    "oldPrice": 4600,
+    "discountPercentage": "35%",
+    "category": "Serrure intelligente",
+    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1784663730/pzp9lotnpfdxl3lvuhqi.png",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1784663730/pzp9lotnpfdxl3lvuhqi.png",
+        "alt": "F27 Pro Full option"
+      },
+      {
+        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1784666478/jhuej3kzjitod6clszdj.png",
+        "alt": "F27 Pro Smartlock"
+      }
+    ],
+    "publishedAt": "2026-07-21T20:41:23.205Z"
+  },
+  {
     "slug": "poignee-digital-x13-ai",
     "title": "Poignée Digital X13 Ai",
     "name": "Poignée Digital X13 Ai",
@@ -15,23 +36,6 @@
       }
     ],
     "publishedAt": "2026-07-21T20:18:43.621Z"
-  },
-  {
-    "slug": "serrure-digitale-mini-m1-pro",
-    "title": "SERRURE DIGITALE F27 PRO",
-    "name": "SERRURE DIGITALE F27 PRO",
-    "price": 2990,
-    "oldPrice": 4600,
-    "discountPercentage": "35%",
-    "category": "Serrure intelligente",
-    "image": "https://res.cloudinary.com/dyzhlriym/image/upload/v1784663730/pzp9lotnpfdxl3lvuhqi.png",
-    "images": [
-      {
-        "url": "https://res.cloudinary.com/dyzhlriym/image/upload/v1784663730/pzp9lotnpfdxl3lvuhqi.png",
-        "alt": "F27 Pro Full option"
-      }
-    ],
-    "publishedAt": "2026-07-21T20:16:47.245Z"
   },
   {
     "slug": "face-id-luxury-x11",
